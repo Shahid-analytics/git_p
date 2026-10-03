@@ -4,6 +4,9 @@ Select
     type,
     profit,
     total,
-    revenueMTD
+    revenueMTD,
+    Shahid,
+    Tasmia
+    Affan
 from
     accounts
