@@ -3,6 +3,7 @@ Select
     amount,
     type,
     profit,
-    total
+    total,
+    revenueMTD
 from
     accounts
