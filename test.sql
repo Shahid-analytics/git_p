@@ -7,6 +7,7 @@ Select
     revenueMTD,
     Shahid,
     Tasmia
-    Affan
+    Affan,
+    Wasim
 from
     accounts
