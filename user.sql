@@ -2,6 +2,8 @@ select
     name,
     phone,
     address,
-    height
+    height,
+    weight,
+    sex
 from
     user
